@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Gustavo</h1>
 <h3 align="center">Soy Gustavo Pereira, desarrollador web WordPress con 5 años de experiencia en la creación de sitios web de alto rendimiento y diseño atractivo. Mi compromiso no se limita solo al desarrollo web, ya que también soy un estudiante dedicado de ciberseguridad. Mi motivación surge del deseo de aprender a proteger no solo mis propios datos, sino también los de otros, defendiéndolos contra posibles amenazas. He obtenido el certificados de Ciberseguridad de Google y seguirmos consiguiendo mas skill para poder crear repositorios que le sirvan a toda la comunidad.</h3>
 
-- Actualmente estoy estudiando **Cibersegurida**
+- Actualmente estoy estudiando **Ciberseguridad**
 
 - 📫 Puedes contactarme en en **linkedin.com/in/gustavoepr**
 
