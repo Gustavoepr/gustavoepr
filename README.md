@@ -1,5 +1,6 @@
 ### 🚀 Sobre mí
-- 💼 +5 años desarrollando sitios web con WordPress
+- 💼 +8 años desarrollando sitios web con WordPress
+- 🧩 Desarrollo de plugins WordPress a medida, adaptados a necesidades de negocio, integraciones y flujos personalizados
 - 🧩 Experiencia en maquetación y personalización con HTML, CSS y JavaScript
 - 🛠️ Desarrollo de sitios desde cero con **Elementor** y **Divi**
 - 🔐 Certificado Profesional de **Ciberseguridad de Google**
@@ -18,6 +19,8 @@
   Desarrollo de sitios en WordPress y Divi.
 - **Desarrollador Web — Estudio DMG**  
   Desarrollo de sitios desde cero en WordPress y personalización de maquetas con HTML, CSS y JS.
+- **Desarrollador Web — Kurve Estudio**  
+  Desarrollo de sitios con WordPress, creacion de plugins a medida.
 ---
 ### 🛠️ Stack y herramientas
 - **CMS & Builders:** WordPress, Elementor, Divi  
@@ -28,6 +31,7 @@
 - **Control de versiones:** Git, GitHub  
 - **Entorno de trabajo:** Linux  
 - **Lenguajes complementarios:** PHP, Python
+- **Opencode:** Flujos de trabajo agenticos
 ---
 ### 📜 Cursos y certificaciones destacadas
 - Certificado Profesional de Ciberseguridad — Google
@@ -40,8 +44,24 @@
 - Git y GitHub Avanzado (Platzi)
 - Desarrollo Web (Google Actívate, Udemy)
 ---
-### 🌐 Proyectos realizados
-`ekklesiausa.com` · `jesparelectric.com` · `davidsantana.net` · `mirandacalderon.com` · `e-plansolutions.com` · `chimpay.com.ar` · `rzandamios.com` · `odontomas.com.ar` · `arflex.com.ar` · `bicables.ar` · `clientes.arflex.com.ar` · `lanuevarevistasocialista.com` · `lavanguardiadigital.com.ar` · `shiftcourier.com` · `coldflex.com.ar` · `viridiana.org.ar`
+### 🌐 Proyectos Desatacado
+- [ekklesiausa.com](https://ekklesiausa.com/)
+- [mirandacalderon.com](https://mirandacalderon.com/)
+- [chimpay.com.ar](https://chimpay.com.ar/)
+- [odontomas.com.ar](https://odontomas.com.ar/)
+- [arflex.com.ar](https://arflex.com.ar/)
+- [andescrowd.com](https://andescrowd.com/)
+- [azabugallery.com](https://azabugallery.com/)
+- [dosados.com.ar](https://dosados.com.ar/)
+- [idpartners.ar](https://idpartners.ar/)
+- [kumbaru.com.ar](https://kumbaru.com.ar/)
+- [quentosnacks.com](https://quentosnacks.com/)
+- [segalmayorista.com](https://segalmayorista.com/)
+- [shoppingdelpanadero.com](https://shoppingdelpanadero.com/)
+- [taker.com.ar](https://taker.com.ar/)
+- [eldar-group.com](https://eldar-group.com/)
+- [wearetalentforge.com.ar](https://wearetalentforge.com.ar/)
+- [weser.site](https://weser.site/)
 ---
 ### 📫 Contacto
 - LinkedIn: [linkedin.com/in/gustavoepr](https://www.linkedin.com/in/gustavoepr/)
