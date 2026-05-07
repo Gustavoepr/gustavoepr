@@ -21,11 +21,13 @@
 ---
 ### 🛠️ Stack y herramientas
 - **CMS & Builders:** WordPress, Elementor, Divi  
-- **Frontend:** HTML5, CSS3, JavaScript, Responsive Design, Bootstrap  
-- **Backend & Data:** PHP, SQL  
+- **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React 19, Vite, Tailwind CSS  
+- **UI & UX:** HeroUI, Framer Motion  
+- **Estado y datos en frontend:** Zustand, TanStack Query, TanStack Router, React Hook Form  
+- **Mapas y geolocalización:** MapLibre GL, Leaflet, Deck.gl  
 - **Control de versiones:** Git, GitHub  
-- **Entorno:** Linux  
-- **Diseño:** Photoshop, Adobe Illustrator
+- **Entorno de trabajo:** Linux  
+- **Lenguajes complementarios:** PHP, Python
 ---
 ### 📜 Cursos y certificaciones destacadas
 - Certificado Profesional de Ciberseguridad — Google
@@ -40,14 +42,6 @@
 ---
 ### 🌐 Proyectos realizados
 `ekklesiausa.com` · `jesparelectric.com` · `davidsantana.net` · `mirandacalderon.com` · `e-plansolutions.com` · `chimpay.com.ar` · `rzandamios.com` · `odontomas.com.ar` · `arflex.com.ar` · `bicables.ar` · `clientes.arflex.com.ar` · `lanuevarevistasocialista.com` · `lavanguardiadigital.com.ar` · `shiftcourier.com` · `coldflex.com.ar` · `viridiana.org.ar`
----
-### 🤝 Fortalezas
-- Coordinacion y supervision de equipos
-- Proactividad y trabajo en equipo
-- Adaptacion a cambios
-- Trabajo bajo presion
-- Aprendizaje rapido
-- Buena comunicacion y trato con clientes
 ---
 ### 📫 Contacto
 - LinkedIn: [linkedin.com/in/gustavoepr](https://www.linkedin.com/in/gustavoepr/)
